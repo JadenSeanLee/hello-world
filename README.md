@@ -3,4 +3,4 @@
 2. 
 
 Hello there,
-iam Sean, and i like github!
+iam Sean and i like github!
